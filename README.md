@@ -1,6 +1,8 @@
-## PaOCLOUD AWS Service Terraform Template
+## PAOCLOUD AWS Service Terraform Template
 
-#### Payungsak Klinchampa
-#### Network / Cloud Enginerr
-#### www.paocloud.in.th , www.payungsakpk.xyz
-#### pao@paocloud.in.th , pao@payungsakpk.xyz
+### PAOCLOUD CO., LTD.
+
+Contact : 
+- technical@paocloud.co.th
+- www.paocloud.co.th
+
