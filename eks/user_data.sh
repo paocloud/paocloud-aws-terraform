@@ -25,7 +25,7 @@ then
     sed -i '/"imageGCHigh*/a \ \ "imageGCLowThresholdPercent": 50,' /etc/kubernetes/kubelet/kubelet-config.json
 fi
 
-/etc/eks/bootstrap.sh wowza-eks
+/etc/eks/bootstrap.sh paocloud-eks
 
 #### Hostname Config ####
 sudo hostnamectl set-hostname paocloud-eks-node
